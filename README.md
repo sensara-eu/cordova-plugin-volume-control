@@ -1,4 +1,4 @@
-# [Cordova Volume Control](https://github.com/jlorente/cordova-plugin-volume-control) [![Release](https://img.shields.io/npm/v/cordova-volume-control.svg?style=flat)](https://github.com/jlorente/cordova-plugin-volume-control/releases)
+# [Cordova Volume Control](https://github.com/sensara-eu/cordova-plugin-volume-control)
 
 This plugin provides a simple way to interact with the volume of your `UIWebView`.
 
@@ -13,7 +13,7 @@ This plugin provides a simple way to interact with the volume of your `UIWebView
 
 Using this plugin requires [Cordova iOS](https://github.com/apache/cordova-ios) and [Cordova Android](https://github.com/apache/cordova-android).
 
-1. `cordova plugin add cordova-plugin-volume-control`--save
+1. `cordova plugin add https://github.com/sensara-eu/cordova-plugin-volume-control.git` --save
 
 
 ## Javascript interface
@@ -26,7 +26,7 @@ Using this plugin requires [Cordova iOS](https://github.com/apache/cordova-ios) 
     VolumeControl.isMuted(console.log.bind(console));
     VolumeControl.setVolume(1.0); //Float between 0.0 and 1.0
 
-* Check [source](https://github.com/jlorente/cordova-plugin-volume-control/tree/master/www/VolumeControl.js) for additional configuration.
+* Check [source](https://github.com/sensara-eu/cordova-plugin-volume-control/tree/master/www/VolumeControl.js) for additional configuration.
 
 
 ## Communication

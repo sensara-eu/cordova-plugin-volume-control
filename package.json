@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-volume-control",
-  "version": "0.1.8",
+  "version": "0.1.8-sensara.1",
   "description": "Cordova Volume Control Plugin",
   "cordova": {
     "id": "cordova-plugin-volume-control",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jlorente/cordova-plugin-volume-control"
+    "url": "https://github.com/sensara-eu/cordova-plugin-volume-control"
   },
   "keywords": [
     "cordova",
